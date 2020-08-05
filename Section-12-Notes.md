@@ -1,15 +1,11 @@
-- [ ] 11 01:13:12 | 13 | Deep Dive: Constructor Functions & Prototypes  
-	- [ ] 265 01 Module Introduction | 01:34  
-	- [ ] 266 02 Introducing Constructor Functions | 04:02  
-	- [ ] 267 03 Constructor Functions vs Classes & Understanding "new" | 04:17  
-	- [ ] 268 04 Introducing Prototypes | 16:46  
-	- [ ] 269 05 Prototypes - Summary | 00:59  
-	- [ ] 270 06 Working with Prototypes | 05:19  
-	- [ ] 271 07 The Prototype Chain and the Global "Object" | 08:26  
-	- [ ] *** ** Constructor Functions & Prototypes 4 questions  
-	- [ ] 272 08 Classes & Prototypes | 05:24  
-	- [ ] 273 09 Methods in Classes & In Constructors | 10:16  
-	- [ ] 274 10 Built-in Prototypes in JavaScript | 02:12  
-	- [ ] 275 11 Setting & Getting Prototypes | 10:58  
-	- [ ] 276 12 Wrap Up | 02:49  
-	- [ ] 277 13 Useful Resources & Links | 00:09
+- [ ] 12 00:55:37 | Practice: OOP & Classes  
+	- [ ] 278 01 Module Introduction | 01:38  
+	- [ ] 279 02 First Project Steps & Planning | 04:46  
+	- [ ] 280 03 Creating Project Lists & Parsing Element Data | 04:08  
+	- [ ] 281 04 Starting with the "Switch Project" Logic | 09:59  
+	- [ ] 282 05 Passing Method References Around | 07:02  
+	- [ ] 283 06 Moving DOM Elements | 11:49  
+	- [ ] 284 07 Adding a Tooltip | 08:58  
+	- [ ] 285 08 Adding Inheritance | 06:13  
+	- [ ] 286 09 Wrap Up | 00:57  
+	- [ ] 287 10 Useful Resources & Links | 00:07
